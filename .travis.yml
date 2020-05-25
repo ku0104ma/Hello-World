@@ -1,0 +1,4 @@
+langage: php
+php:
+  -7.3.16
+script: php Test.php
